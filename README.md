@@ -24,9 +24,10 @@ npm run build
 npm run lint
 ```
 
+### db Server [Desarrollo Full Stack de Bazar](https://github.com/midudev/pruebas-tecnicas/blob/main/pruebas/02-bazar-universal/README.md)
+
+
 ```sh
 json-server --watch ./public/db.json
 ```
-
-### Lint with [Desarrollo Full Stack de Bazar](https://github.com/midudev/pruebas-tecnicas/blob/main/pruebas/02-bazar-universal/README.md)
 
